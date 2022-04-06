@@ -1,5 +1,0 @@
-Op#	ALUSel	InputA		InputB		ALU_Output
-00	7	7435daa4	62381add	xxxxxxxx
-01	7	ffffdead	ffffbeef	xxxxxxxx
-02	7	ffffdead	63234d49	xxxxxxxx
-03	7	efffffff	ac273deb	xxxxxxxx
